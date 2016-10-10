@@ -30,6 +30,7 @@ h1{
   width: 3%;
   bottom: 65%;
   right: 26%;
+  border-radius: 45%;
 }
 .bird{
 	position: relative;
@@ -37,7 +38,7 @@ h1{
   top: 3.3%;
   right: 16%;
   width: 7.3%;
-  height: 7%;
+  height: 5%;
 }
 .decoration{
   position: absolute;
