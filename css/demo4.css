@@ -36,7 +36,7 @@ h1{
 	position: relative;
   border-radius: 50%;
   top: 4.3%;
-  right: 15.5%;
+  right: 16%;
   width: 7%;
   height: 8%;
 }
@@ -49,8 +49,8 @@ h1{
 .biberon {
 	position: absolute;
   width: 35px;
-  top: 57.5%;
-  left: 65%;
+  top: 56%;
+  left: 89%;
 }
 .ropon{
 	position: absolute;
@@ -84,14 +84,6 @@ h1{
   width: 38px;
   left: 79%;
   top: 58%;
-}
-.bird2{
-	position: relative;
-	border-radius: 50%;
-  top: 3.3%;
-  right: 16%;
-  width: 7.3%;
-  height: 7%;
 }
 .zzz{
 	position: absolute;
