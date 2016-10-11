@@ -26,8 +26,9 @@ h1{
 }
 .carita{
 	position: absolute;
-	border-radius: 35%;
+  border-radius: 35%;
   width: 3%;
+<<<<<<< HEAD
   bottom: 65%;
   right: 26%;
   border-radius: 45%;
@@ -39,6 +40,18 @@ h1{
   right: 16%;
   width: 7.3%;
   height: 8%;
+=======
+  bottom: 77%;
+  right: 23%;
+}
+.bird{
+	  position: relative;
+    border-radius: 50%;
+    top: 7.3%;
+    right: 14%;
+    width: 5.3%;
+    height: 9%;
+>>>>>>> gh-pages
 }
 .decoration{
   position: absolute;
@@ -49,8 +62,13 @@ h1{
 .biberon {
 	position: absolute;
   width: 35px;
+<<<<<<< HEAD
   top: 58%;
   left: 65%;
+=======
+  top: 60.7%;
+  left: 89%;
+>>>>>>> gh-pages
 }
 .ropon{
 	position: absolute;
@@ -80,10 +98,17 @@ h1{
 	position: relative;
 }
 .coronaa{
+<<<<<<< HEAD
 	position: absolute;
   width: 38px;
   left: 79%;
   top: 57.3%;
+=======
+  position: absolute;
+  width: 40px;
+  left: 68%;
+  top: 61.3%;
+>>>>>>> gh-pages
 }
 .bird2{
 	position: relative;
