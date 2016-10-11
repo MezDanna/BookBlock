@@ -35,10 +35,10 @@ h1{
 .bird{
 	position: relative;
 	border-radius: 50%;
-  top: 3.3%;
+  top: 3%;
   right: 16%;
   width: 7.3%;
-  height: 5%;
+  height: 4%;
 }
 .decoration{
   position: absolute;
